@@ -1,0 +1,1 @@
+This will be a simple todo application that tracks tasks in projects and displays them for a user to interct.

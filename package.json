@@ -1,0 +1,23 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "An organizable list that will tell the user what must be done and when",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColeBarraclough/todolist.git"
+  },
+  "author": "Cole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ColeBarraclough/todolist/issues"
+  },
+  "homepage": "https://github.com/ColeBarraclough/todolist#readme",
+  "devDependencies": {
+    "webpack": "^5.11.1",
+    "webpack-cli": "^4.3.0"
+  }
+}
